@@ -1,4 +1,8 @@
-## Running React on Repl.it
+## Web Portal 
+### Technologies:
+React JS, Solidity
+
+### Running React on Repl.it
 
 [React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
 

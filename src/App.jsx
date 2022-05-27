@@ -17,12 +17,13 @@ export default function App() {
         </div>
 
         <div className="bio">
-        Connect your Ethereum wallet and wave at me!
+        Connect your Ethereum/polygon wallet and wave at me!
         </div>
 
         <button className="waveButton" onClick={wave}>
           Wave at Me
         </button>
+        <input className="inputBox"></input>
       </div>
     </div>
   );
